@@ -1,0 +1,21 @@
+#include<stdio.h>
+main()
+{
+ int i,j,n;
+ for(i=0;i<=n;i++)
+   {
+     for(j=1;j<=n;j++)
+       {
+        print("%d",j);
+        if(j==1)
+         {
+           prinf("1");
+         }
+        else
+         {
+          printf("1");
+         }
+         printf("\n");
+       }
+   }
+}
